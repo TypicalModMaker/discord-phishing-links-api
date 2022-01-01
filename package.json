@@ -1,0 +1,35 @@
+{
+  "name": "discord-fake-links-api",
+  "version": "1.0.0",
+  "description": "funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "discord-api",
+    "fakelink",
+    "fake",
+    "link"
+  ],
+  "author": "isnow",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "init": "^0.1.2",
+    "logger": "0.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TypicalModMaker/discord-phishing-links-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TypicalModMaker/discord-phishing-links-api/issues"
+  },
+  "homepage": "https://github.com/TypicalModMaker/discord-phishing-links-api#readme"
+}
