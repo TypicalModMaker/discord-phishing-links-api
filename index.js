@@ -27,7 +27,7 @@ request('https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/
     }
 });
 
-setTimeout(function () {
+setInterval(function () {
 
     request('https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/domain-list.json', function (error, response, body) {
         if (!error && response.statusCode == 200) {
