@@ -3,7 +3,7 @@ An API for https://github.com/nikolaischunk/discord-phishing-links made with exp
 
 I made this API purely for learning, please do not hate for my coding style
 
-I also might host this API soon
+I might host this API soon
 
 Features:
   - AutoUpdating list every 1 hour
