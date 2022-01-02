@@ -16,3 +16,5 @@ Possbile status codes:
   - 500 [domain-list.json badly parsed/not existing] FIX: rerun the server OR wait 1 hour until new domain-list.json sync
   - 404 [Domain is not in the list] - Message: Domain is in the list
   - 200 [Domain is in the list] - Message: Domain is not in the list
+
+Special thanks to nikolaischunk and all contributors of [discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links)!
