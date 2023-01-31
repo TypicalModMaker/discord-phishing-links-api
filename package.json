@@ -18,7 +18,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.17.2",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "init": "^0.1.2",
     "logger": "0.0.1",
     "request": "^2.88.2"
